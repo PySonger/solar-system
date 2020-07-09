@@ -7,8 +7,8 @@
 
 #define WINDOW_X_POS 50
 #define WINDOW_Y_POS 50
-#define WIDTH 700
-#define HEIGHT 700
+#define WIDTH 1000
+#define HEIGHT 1000
 
 SolarSystem solarsystem;
 
